@@ -1,0 +1,23 @@
+#table1{
+    direction: rtl;
+    width: 100%;
+    background-color: black;
+}
+#table1 thead{
+    background-color:#f9c6c6;
+   
+}
+
+
+#table1 tbody{
+    background-color: greenyellow;
+    
+}
+
+td{
+    padding: 20px;
+    text-align: center;
+}
+
+
+
